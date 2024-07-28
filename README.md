@@ -5,6 +5,7 @@ This project aims to perform an exploratory data analysis (EDA) on a dataset con
 
 ## Dataset
 The dataset used in this analysis can be found [here](https://www.kaggle.com/code/gulsahdemiryurek/video-game-sales-exploratory-data-analysis/input)
+
 It consists of the following features:
 
 Name: The name of the video game.
