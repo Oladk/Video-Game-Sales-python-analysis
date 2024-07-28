@@ -8,16 +8,16 @@ The dataset used in this analysis can be found [here](https://www.kaggle.com/cod
 
 It consists of the following features:
 
-Name: The name of the video game.
-Platform: The platform on which the game was released (e.g., PS4, Xbox One, PC).
-Year of Release: The year the game was released.
-Genre: The genre of the game (e.g., Action, Sports, RPG).
-Publisher: The company that published the game.
-NA Sales (millions): Sales in North America in millions.
-EU Sales (millions): Sales in Europe in millions.
-JP Sales (millions): Sales in Japan in millions.
-Other Sales (millions): Sales in other regions in millions.
-Global Sales (millions): Total worldwide sales in millions.
+- Name: The name of the video game.
+- Platform: The platform on which the game was released (e.g., PS4, Xbox One, PC).
+- Year of Release: The year the game was released.
+- Genre: The genre of the game (e.g., Action, Sports, RPG).
+- Publisher: The company that published the game.
+- NA Sales (millions): Sales in North America in millions.
+- EU Sales (millions): Sales in Europe in millions.
+- JP Sales (millions): Sales in Japan in millions.
+- Other Sales (millions): Sales in other regions in millions.
+- Global Sales (millions): Total worldwide sales in millions.
 
 ## Objectives
 The main objectives of this analysis are:
